@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/logo-dark.svg">
+    <img src="assets/brand/logo.svg" alt="switchboard" width="220">
+  </picture>
+</p>
+
 # switchboard
 
 > Delegate work to other models and watch it run — durable background jobs, parallel model runs, inspectable context, costs, tools, and artifacts, accessible from the assistant you are already using.
